@@ -30,5 +30,7 @@ sudo apt install -y arc-theme
 
 sudo apt-get install -y python3-pip ;
 
-
+# Jetbrains stuff
+sudo apt install openjdk-8-jdk;
+sudo snap install android-studio --classic
 sudo snap install webstorm --classic
